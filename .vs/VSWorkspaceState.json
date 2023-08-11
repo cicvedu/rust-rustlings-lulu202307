@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\exercises",
     "\\rustlings",
     "\\rustlings\\exercises",
-    "\\rustlings\\exercises\\hashmaps",
-    "\\rustlings\\exercises\\intro",
-    "\\rustlings\\tests",
+    "\\rustlings\\tests\\fixture",
+    "\\rustlings\\tests\\fixture\\failure",
     "\\tests",
     "\\tests\\fixture",
     "\\tests\\fixture\\state",
     "\\tests\\fixture\\success"
   ],
-  "SelectedNode": "\\rustlings\\exercises\\intro\\intro1.rs",
+  "SelectedNode": "\\rustlings\\exercises\\intro\\intro2.rs",
   "PreviewInSolutionExplorer": false
 }
