@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\exercises",
+    "\\exercises\\intro",
+    "\\exercises\\variables",
     "\\rustlings",
     "\\rustlings\\exercises",
-    "\\rustlings\\exercises\\intro",
     "\\rustlings\\exercises\\variables",
     "\\tests",
     "\\tests\\fixture",
